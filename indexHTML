@@ -1,0 +1,95 @@
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Daftar Mahasiswa Berprestasi Universitas Nusantara 2025</h1>
+        
+        <div class="table-container">
+            <table>
+                <caption>Data Mahasiswa Berprestasi Tahun 2023-2025</caption>
+                
+                <thead>
+                    <tr>
+                        <th scope="col">No</th>
+                        <th scope="col" colspan="2">Nama Mahasiswa</th>
+                        <th scope="col">Program Studi</th>
+                        <th scope="col">IPK</th>
+                        <th scope="col">Prestasi</th>
+                        <th scope="col">Tahun</th>
+                    </tr>
+                    <tr class="program-studio-header">
+                        <th></th>
+                        <th scope="col">Nama Depan</th>
+                        <th scope="col">Nama Belakang</th>
+                        <th></th>
+                        <th></th>
+                        <th></th>
+                        <th></th>
+                    </tr>
+                </thead>
+                
+                <tbody>
+                    <tr>
+                        <th scope="row">1</th>
+                        <td>Aditya</td>
+                        <td>Pratama</td>
+                        <td>Teknik Informatika</td>
+                        <td class="highlight">3.98</td>
+                        <td>Juara 1 Kompetisi Pemrograman Nasional</td>
+                        <td>2024</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">2</th>
+                        <td>Bella</td>
+                        <td>Sari</td>
+                        <td>Sistem Informasi</td>
+                        <td>3.85</td>
+                        <td>Best Paper Award Konferensi Internasional</td>
+                        <td>2023</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">3</th>
+                        <td>Chandra</td>
+                        <td>Wijaya</td>
+                        <td>Teknik Elektro</td>
+                        <td class="highlight">3.96</td>
+                        <td>Penemu Alat Pendeteksi Dini Gempa</td>
+                        <td>2025</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">4</th>
+                        <td>Dian</td>
+                        <td>Kusuma</td>
+                        <td>Manajemen</td>
+                        <td>3.90</td>
+                        <td>Juara 1 Business Plan Competition</td>
+                        <td>2024</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">5</th>
+                        <td>Eko</td>
+                        <td>Saputra</td>
+                        <td>Teknik Sipil</td>
+                        <td>3.88</td>
+                        <td>Perancang Jembatan Tahan Gempa</td>
+                        <td>2023</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">6</th>
+                        <td>Fitri</td>
+                        <td>Anggraini</td>
+                        <td>Kedokteran</td>
+                        <td class="highlight">3.99</td>
+                        <td>Peneliti Muda Terbaik di Bidang Neurologi</td>
+                        <td>2025</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        
+        <div class="summary">
+            Dari data diatas dapat kita ketahui bahwa total mahasiswa berprestasi di Universitas nusantara dari tahun 2023 hingga tahun 2025 berjumlah 6 orang.
+    </div>
+</body>
+<html
